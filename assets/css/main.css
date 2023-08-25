@@ -3162,7 +3162,7 @@
 
 	#banner {
 		background-attachment: scroll,							fixed;
-		background-color: #6E20A0;
+		background-color: #7413dc;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
 		color: #fff;
@@ -3175,7 +3175,7 @@
 		}
 
 		#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
-			color: #6E20A0;
+			color: #7413dc;
 		}
 
 		#banner h2 {
