@@ -3163,8 +3163,6 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #6E20A0;
-		#background-image: url("images/overlay.png"), url("../../images/banner.gif");
-		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
 		color: #fff;
