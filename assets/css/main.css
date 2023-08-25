@@ -2993,14 +2993,14 @@
 					}
 
 					#header nav > ul > li a:not(.button) {
-						color: #088486;
+						color: #ffffff;
 						display: inline-block;
 						text-decoration: none;
 						border: 0;
 					}
 
 						#header nav > ul > li a:not(.button).icon:before {
-							color: #088486;
+							color: #ffffff;
 							margin-right: 0.5em;
 						}
 
@@ -3022,8 +3022,8 @@
 		#header input[type="button"],
 		#header .button {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 2px #999;
-			color: #088486;
+			box-shadow: inset 0 0 0 2px #ffffff;
+			color: #ffffff;
 		}
 
 			#header input[type="submit"]:hover,
