@@ -3272,7 +3272,7 @@
 			}
 
 		#footer .copyright {
-			color: #999;
+			color: #ffffff;
 			font-size: 0.9em;
 			line-height: 1em;
 			margin: 2em 0 0 0;
@@ -3285,7 +3285,7 @@
 			}
 
 			#footer .copyright li {
-				border-left: solid 1px #dddddd;
+				border-left: solid 1px #ffffff;
 				display: inline-block;
 				list-style: none;
 				margin-left: 1em;
