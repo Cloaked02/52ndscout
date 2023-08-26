@@ -1,0 +1,117 @@
+<!DOCTYPE HTML>
+
+
+<html>
+	<head>
+		<title>Privacy Policy - 52nd Reading Scout Group</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+			
+				<header id="header">
+					<h1><a href="index.html">52nd Reading Scout Group</a></h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li>
+								<a href="#" class="icon solid fa-angle-down">More</a>
+								<ul>
+									<li><a href="group.html">Group</a></li>
+									<li><a href="beavers.html">Beavers</a></li>									
+									<li><a href="cubs.html">Cubs</a></li>
+									<li><a href="scouts.html">Scouts</a></li>
+									<li><a href="explorers.html">Explorers</a></li>
+									<li><a href="parents.html">For Parents</a></li>
+									<li><a href="leaders.html">For Leaders</a></li>
+									<li>
+										
+								</ul>
+							</li>
+							<li><a href="contact.html" class="button">Contact Us</a></li>
+
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Main -->
+				<section id="main" class="container">
+					<header>
+						<span class="image featured"><img src="images/cubslogo.jpg" alt="Cub Scout Logo" /></span>
+						<p>Cub Scouts is for children aged 8 to 10½ years old</p>
+					</header>
+					<div class="box">
+						<h3>Who are Cubs?</h3>
+						<p>Cubs are young people who:</p>
+						<ul>
+ 						   	<li>Master new skills and try new things</li>
+  						   	<li>Have fun and go on adventures</li>
+  						   	<li>Make friends</li>
+							<li>Are curious about the world around them</li>
+							<li>Help others and make a difference, in their own communities and beyond</li>
+						</ul>
+						<div class="row">
+							<div class="row-6 row-12-mobilep">
+								<h3>What we do</h3>
+								<p>There are loads of fun things that you can do as a Cub Scout. </p>
+								<p>You will get a chance to try lots of different activities like exploring, hiking, map reading, stargazing, singing campfire songs, tying knots, cooking, computing and collecting ... and you can get a badge for these and many other hobbies and activities to wear on your uniform.</p>
+								<p></p>Cub Scouts also get to go on trips and days out, to places like the swimming pool, Science Museum or an animal sanctuary. Every year you will have the opportunity to go camping with the rest of your Pack ... this will mean you sleeping in a tent and doing lots of exciting outdoor activities.</p>
+								<p>Cubs are usually invested into the Pack after four to six weeks. When they are invested, they make their Promise and say the Law and can then proudly wear the 52nd Reading Group's scarlet necker. They are also awarded the World Membership Badge, The Royal County of Berkshire, Reading Central District and 52nd Reading Scout Group badges.</p>
+								<div class="row-6 row-12-mobilep">
+								<h3>The Promise</h3>
+								<p>Insert Cub Scout Promise HERE - List type thingy</p>
+								<div class="row-6 row-12-mobilep">
+								<h3>Awards and Badges</h3>
+									<p>Cub Scouts have the opportunity to gain awards and badges by completing a wide range of activities and challenges and in recognition of their commitment, effort and achievements.
+
+Activity badges
+Many of the badges available are activity badges, which allow Cub Scouts to show their progress in existing pursuits, but also to try all kinds of new things and form new interests. There is a wide range of staged activity badges which span the sections (with only the highest of each badge worn on the uniform at any time).
+
+Challenge awards
+Gaining a challenge badge involves accomplishing a number of more ambitious tasks within the Pack or community. There are several challenge badges across a number of themes, from the physical and outdoorsy to challenges dealing with the local community or issues connected with the Scouting world.
+
+Joining-In Awards 
+These badges are awarded to celebrate the anniversary of a young person's initial commitment to Scouting and for taking an active part in the programme.
+
+Cub Scout badges that you should move to a new Scout Uniform
+
+Oggi
+Alongside our many activities and badge work, 52nd Reading Cub Pack has a fun competition running where points are awarded to the sixes for various thing such as being on time for the start of each meeting (Grand Howl) wearing smart, full uniform, doing their best in other ways, thinking of others and doing good turns.
+At the end of the term, the six with the most Oggi points gets awarded Oggi (which wears their six's colours for a term) and a prize.</p>
+							</div>
+						</div>
+					</div>
+				</section>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
+					</ul>
+     <p>Website <a href="terms.html">Terms and Conditions</a> and <a href="privacy.html">Privacy Policy</a></p>
+					<ul class="copyright">
+						<li>&copy; 52nd Reading Scout Group All rights reserved.</li><li>Design: <a href="thuu@52ndreadingscoutgroup.org.uk">Jay H (Thuu)</a></li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
