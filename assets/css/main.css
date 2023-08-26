@@ -2882,6 +2882,7 @@
 
 /* Header */
 
+
 	#page-wrapper {
 		padding-top: 3em;
 	}
@@ -2929,7 +2930,18 @@
 			top: 0;
 		}
 	}
+.header img {
+  float: left;
+  width: 110px;
+  height: 80px;
+  background: #555;
+}
 
+.header h1 {
+  position: relative;
+  top: 30px;
+  left: 24px;
+}
 	#header {
 		background: #7413dc;
 		color: #7413dc;
@@ -3129,7 +3141,7 @@
 			}
 
 			.dropotron li.active > a, .dropotron li.active > span, .dropotron li:hover > a, .dropotron li:hover > span {
-				background: #e89980;
+				background: #7413dc;
 				color: #ffffff;
 			}
 
