@@ -2969,6 +2969,7 @@
 		top: 0;
 		width: 100%;
 		z-index: 10000;
+		font-weight: bold;
 	}
 
 		#header h1 {
@@ -2984,7 +2985,7 @@
 
 			#header h1 a {
 				color: #ffffff;
-				font-weight: 700;
+				font-weight: bold;
 				border: 0;
 			}
 
