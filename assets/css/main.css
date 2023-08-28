@@ -2762,7 +2762,7 @@
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background-color: #000000;
+		background-color: #999;
 		border-radius: 6px;
 		border: 0;
 		color: #000000;
@@ -2864,7 +2864,7 @@
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #000000;
+			background-color:  #999;
 			color: #999 !important;
 		}
 
@@ -2983,7 +2983,7 @@
 		}
 
 			#header h1 a {
-				color: #000000;
+				color: #ffffff;
 				font-weight: 700;
 				border: 0;
 			}
@@ -3021,14 +3021,14 @@
 					}
 
 					#header nav > ul > li a:not(.button) {
-						color: #000000;
+						color: #ffffff;
 						display: inline-block;
 						text-decoration: none;
 						border: 0;
 					}
 
 						#header nav > ul > li a:not(.button).icon:before {
-							color: #000000;
+							color: #ffffff;
 							margin-right: 0.5em;
 						}
 
@@ -3037,7 +3037,7 @@
 					}
 
 					#header nav > ul > li.active a:not(.button) {
-						background-color: #000000;
+						background-color: #ffffff;
 					}
 
 					#header nav > ul > li .button {
