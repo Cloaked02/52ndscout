@@ -3305,7 +3305,7 @@
 			line-height: 1em;
 			margin: 2em 0 0 0;
 			padding: 0;
-			text-align: left;
+			text-align: inherit;
 		}
 
 			#footer .copyright a {
