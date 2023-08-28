@@ -2466,6 +2466,7 @@
 				top: 0.25em;
 				display: block;
 				width: 25%;
+				position: relative;
 			}
 
 		.image.right {
@@ -2475,7 +2476,9 @@
 		}
 		.image.center {
 			float: center;
+			display: block;
 			width: 25%;
+			position: relative;
 		}
 
 		.image.fit {
