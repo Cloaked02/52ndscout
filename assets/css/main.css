@@ -2403,7 +2403,7 @@
 		.icon.major {
 			background: #ffffff;
 			border-radius: 100%;
-			color: #000000;
+			color: #999;
 			cursor: default;
 			display: inline-block;
 			height: 5.5em;
@@ -2418,7 +2418,7 @@
 
 			.icon.major.accent1 {
 				background: #ffffff;
-				color: #000000;
+				color:  #999;
 			}
 
 			.icon.major.accent2 {
