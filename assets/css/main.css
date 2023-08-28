@@ -3923,3 +3923,12 @@
 
 	}
 
+/* SGBOX */
+	.SGBOX {
+		background-color: #ffe627;
+		width: 500px;
+		padding: 50px;
+		margin: 20px;
+		position: relative;
+	
+  		}
