@@ -2403,7 +2403,7 @@
 		.icon.major {
 			background: #ffffff;
 			border-radius: 100%;
-			color: #ffffff;
+			color: #000000;
 			cursor: default;
 			display: inline-block;
 			height: 5.5em;
@@ -2418,7 +2418,7 @@
 
 			.icon.major.accent1 {
 				background: #ffffff;
-				color: #ffffff;
+				color: #000000;
 			}
 
 			.icon.major.accent2 {
@@ -2765,7 +2765,7 @@
 		background-color: #000000;
 		border-radius: 6px;
 		border: 0;
-		color: #ffffff;
+		color: #000000;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 400;
@@ -2864,7 +2864,7 @@
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #ffffff;
+			background-color: #000000;
 			color: #ffffff !important;
 		}
 
@@ -2872,7 +2872,7 @@
 			input[type="reset"].primary:hover,
 			input[type="button"].primary:hover,
 			.button.primary:hover {
-				background-color: #ffffff;
+				background-color: #000000;
 			}
 
 			input[type="submit"].primary:active,
@@ -3021,14 +3021,14 @@
 					}
 
 					#header nav > ul > li a:not(.button) {
-						color: #ffffff;
+						color: #000000;
 						display: inline-block;
 						text-decoration: none;
 						border: 0;
 					}
 
 						#header nav > ul > li a:not(.button).icon:before {
-							color: #ffffff;
+							color: #000000;
 							margin-right: 0.5em;
 						}
 
@@ -3037,7 +3037,7 @@
 					}
 
 					#header nav > ul > li.active a:not(.button) {
-						background-color: #ffffff;
+						background-color: #000000;
 					}
 
 					#header nav > ul > li .button {
@@ -3051,7 +3051,7 @@
 		#header .button {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 2px #ffffff;
-			color: #ffffff;
+			color: #000000;
 		}
 
 			#header input[type="submit"]:hover,
