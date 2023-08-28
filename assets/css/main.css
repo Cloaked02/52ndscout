@@ -2460,11 +2460,22 @@
 			padding: 0 1.5em 1em 0;
 			top: 0.25em;
 		}
+			.image.left fit {
+				float: left;
+				padding: 0 1.5em 1em 0;
+				top: 0.25em;
+				display: block;
+				width: 25%;
+			}
 
 		.image.right {
 			float: right;
 			padding: 0 0 1em 1.5em;
 			top: 0.25em;
+		}
+		.image.align-center {
+			float: center;
+			width: 25%;
 		}
 
 		.image.fit {
@@ -3289,7 +3300,7 @@
 			line-height: 1em;
 			margin: 2em 0 0 0;
 			padding: 0;
-			text-align: center;
+			text-align: left;
 		}
 
 			#footer .copyright a {
@@ -3907,36 +3918,3 @@
 
 	}
 
-/*======================
-    404 page
-=======================*/
-
-
-.page_404{ padding:40px 0; background:#fff; font-family: 'Nunito Sans', serif;
-}
-
-.page_404  img{ width:100%;}
-
-.four_zero_four_bg{
- 
- background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
-    height: 400px;
-    background-position: center;
- }
- 
- 
- .four_zero_four_bg h1{
- font-size:80px;
- }
- 
-  .four_zero_four_bg h3{
-       font-size:80px;
-       }
-       
-       .link_404{      
-  color: #fff!important;
-    padding: 10px 20px;
-    background: #39ac31;
-    margin: 20px 0;
-    display: inline-block;}
-  .contant_box_404{ margin-top:-50px;}
