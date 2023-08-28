@@ -2466,6 +2466,7 @@
 				top: 0.25em;
 				display: block;
 				width: 25%;
+				height: auto;
 				position: relative;
 			}
 
@@ -2477,7 +2478,8 @@
 		.image.center {
 			float: center;
 			display: block;
-			width: 25%;
+			width: 5%;
+			height: auto;
 			position: relative;
 		}
 
