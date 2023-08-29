@@ -3934,3 +3934,14 @@
 		position: relative;
 	
   		}
+
+/* Padding for header */
+	.ex1 {
+		padding: 35px 70px 50px 90px;
+		float: left;
+		top: 0.25em;
+		display: block;
+		width: 25%;
+		height: auto;
+		position: relative
+  		}
