@@ -3038,7 +3038,7 @@
 					}
 
 					#header nav > ul > li.active a:not(.button) {
-						background-color: #000000;
+						background-color: #999;
 					}
 
 					#header nav > ul > li .button {
@@ -3191,7 +3191,7 @@
 
 	#banner {
 		background-attachment: scroll,							fixed;
-		background-color: #7413dc;
+		background-color: #ffffff;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
 		color: #fff;
@@ -3204,7 +3204,7 @@
 		}
 
 		#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
-			color: #7413dc;
+			color: #ffffff;
 		}
 
 		#banner h2 {
