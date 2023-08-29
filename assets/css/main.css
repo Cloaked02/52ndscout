@@ -2951,7 +2951,6 @@
   float: left;
   width: auto;
   height: 80px;
-  left: 4.75em;
 }
 
 .header h1 {
@@ -2964,7 +2963,7 @@
 		color: #ffffff;
 		cursor: default;
 		height: 4.5em;
-		left: 0;
+		left: 4.75em;
 		line-height: 4.5em;
 		position: fixed;
 		top: 0;
