@@ -2781,14 +2781,14 @@
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			background-color: #737373;
+			color: #006ddf;
 		}
 
 		input[type="submit"]:active,
 		input[type="reset"]:active,
 		input[type="button"]:active,
 		.button:active {
-			background-color: #595959;
+			color: #006ddf;
 		}
 
 		input[type="submit"].icon,
@@ -2951,7 +2951,6 @@
   float: left;
   width: auto;
   height: 80px;
-  left: 4.75em;
 
 }
 
